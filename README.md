@@ -22,7 +22,6 @@ This project has the next libraryes:
 <img src="ImageApp/Screenshot_1668648252.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<img src="ImageApp/Screenshot_1668648266.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;
  
  
 
