@@ -3,7 +3,7 @@
   
 # Libraries
 
-This project has the next libraryes:
+This project has the next libraries:
 
 1. react-native-picker/picker
 2. axios
